@@ -5,7 +5,6 @@
 
 Me Chamo Davi da Silva Freitas, tenho 19 anos, atualmente morando na Paraiba(Santa Cruz). Tendo o ensino médio completo e Tecnico em Programação em Jogos Digitais na ECITVWO, atualmente cursando Tecnologia da Informação na UFERSA. Gosto de explorar novas ferramentas, aprender linguagens de programação e entender como sistemas funcionam por trás das telas.
 
-
 <div align="left">
   <a href= "https://www.linkedin.com/in/davi-freitas-734586236/" target="_blank">
     <img src= "  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,7 +23,7 @@ Me Chamo Davi da Silva Freitas, tenho 19 anos, atualmente morando na Paraiba(San
   </a>
 </div>
 
-###
+#
 
 <p>
 
@@ -33,7 +32,7 @@ Me Chamo Davi da Silva Freitas, tenho 19 anos, atualmente morando na Paraiba(San
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviFreita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
 
-###
+#
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
