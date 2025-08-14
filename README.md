@@ -29,7 +29,7 @@ Me Chamo Davi da Silva Freitas, tenho 19 anos, atualmente morando na Paraiba(San
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DaviFreita&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=DaviFreita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2](https://camo.githubusercontent.com/461bb206ede90683e7692cf76e8492a069280e218ea5b1c8e32453adf34b4379/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d44617669467265697461266c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d35267468656d653d64726163756c6126686964655f626f726465723d66616c7365266f726465723d32)" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviFreita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
 
 #
