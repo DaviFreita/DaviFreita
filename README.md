@@ -3,7 +3,7 @@
 ###  ***`Desenvolvedor Back-End`***
 
 
-Me Chamo Davi da Silva Freitas, tenho 20 anos, atualmente morando no Rio Grande do Norte (Pau dos Ferros). Tendo o ensino médio completo e Tecnico em Programação em Jogos Digitais na ECITVWO, atualmente cursando Tecnologia da Informação na UFERSA. Gosto de explorar novas ferramentas, aprender linguagens de programação e entender como sistemas funcionam por trás das telas.
+Me Chamo Davi da Silva Freitas, tenho 20 anos, atualmente morando no Rio Grande do Norte (Pau dos Ferros). Tendo Tecnico em Programação em Jogos Digitais na ECITVWO, atualmente cursando Tecnologia da Informação na UFERSA. Gosto de explorar novas ferramentas, aprender linguagens de programação e entender como sistemas funcionam por trás das telas.
 
 <div align="left">
   <a href= "https://www.linkedin.com/in/davi-freitas-734586236/" target="_blank">
